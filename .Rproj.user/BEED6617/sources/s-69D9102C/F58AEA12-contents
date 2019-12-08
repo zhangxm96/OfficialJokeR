@@ -1,0 +1,6 @@
+library(testthat)
+library(ForGithub)
+
+test_check("ForGithub")
+
+squrt(25,4)

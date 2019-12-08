@@ -1,0 +1,16 @@
+#' R wrapper for An API of Official Joke
+#'
+#' This package provides access to the \href{https://github.com/15Dkatz/official_joke_api}{official_joke_api}
+#' API from R. Final Project For MDS 2019 Fall.
+#' @author Ximing Zhang
+#' @return List with all parameters of the joke from official joke APIs.
+#' @examples get_joke(),
+#' get_random_joke(),
+#' get_joke(type = "general",choice="ten",return_type="dataframe")
+#'
+#' @docType package
+#' @name OfficialJoke-package
+#' @aliases OfficialJokeR OfficialJoke-package
+#' @importFrom httr modify_url GET content http_type http_error status_code user_agent
+#' @importFrom jsonlite fromJSON
+NULL

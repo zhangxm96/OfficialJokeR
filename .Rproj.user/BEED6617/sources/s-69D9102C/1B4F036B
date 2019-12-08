@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575747398585.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1B4F036B",
+    "lastKnownWriteTime" : 1575774605,
+    "last_content_update" : 1575774605756,
+    "path" : "~/OfficialJokeR/R/OfficialJoke.R",
+    "project_path" : "R/OfficialJoke.R",
+    "properties" : {
+        "cursorPosition" : "109,4",
+        "scrollLine" : "99"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
